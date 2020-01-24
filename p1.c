@@ -3,6 +3,6 @@
 
 void main()
 {
-       printf("welcome sandeep to cp lab");
+       printf("welcome to cp lab");
 }
 qwe
