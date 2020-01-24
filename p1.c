@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 
-void main()
+void main().....
 {
        printf("welcome sandeep to cp lab");
 }sad
